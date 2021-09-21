@@ -9,9 +9,8 @@
                 Cadastrar Usuário
             </h1>
             <form method="POST" action="processa.php">
-           <label>Nome:</label>
-           <input type="text" name="nome" placeholder="Digite o nome completo"><br><br><input>     
-
+                <label>Nome:</label>
+                <input type="text" name="nome" placeholder="Digite o nome completo"><br><br><input>     
             </form>
         </body>
 </html>
