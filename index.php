@@ -1,5 +1,5 @@
 <!Doctype htnl></Doctype>
-<><html lang="pt-br">
+<html lang="pt-br">
     <head>
         <title>CRUD - Cadastrar Criar Ler Atualizar e Deletar</title>
     </head>
